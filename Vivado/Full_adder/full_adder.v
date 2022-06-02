@@ -1,4 +1,4 @@
-module full_Adder (
+module full_adder (
     input a1, a2, cin,
     output s,cout
 );
