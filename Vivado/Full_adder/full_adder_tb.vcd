@@ -1,0 +1,66 @@
+$date
+	Thu Jun 02 12:39:07 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module full_adder_tb $end
+$var wire 1 ! S $end
+$var wire 1 " Cout $end
+$var reg 1 # A1 $end
+$var reg 1 $ A2 $end
+$var reg 1 % Cin $end
+$scope module uut $end
+$var wire 1 # A1 $end
+$var wire 1 $ A2 $end
+$var wire 1 % Cin $end
+$var wire 1 ! S $end
+$var wire 1 " Cout $end
+$var reg 2 & temp [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 &
+0%
+0$
+0#
+0"
+0!
+$end
+#5000
+1!
+b1 &
+1%
+#10000
+0%
+1$
+#15000
+0!
+1"
+b10 &
+1%
+#20000
+1!
+0"
+b1 &
+0%
+0$
+1#
+#25000
+0!
+1"
+b10 &
+1%
+#30000
+0%
+1$
+#35000
+1!
+b11 &
+1%
+#40000

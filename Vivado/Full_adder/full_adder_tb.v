@@ -13,7 +13,7 @@ wire S,Cout;
 //     .cout(Cout);
 //     );
 
-full_adder uut (A1,A2,Cin,S,Cout)
+full_adder uut (A1,A2,Cin,S,Cout);
 
 initial begin
     $dumpfile("full_adder_tb.vcd");
