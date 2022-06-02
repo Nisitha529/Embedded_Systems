@@ -1,12 +1,14 @@
 module full_adder (
-    input a1, a2, cin,
-    output s,cout
+    A1, A2, Cin, S,Cout
 );
+    input A1, A2, Cin;
+    output S,Cout;
+
     reg [1:0] temp;
     always @(*) begin
-        temp = {1'b0,a1} + {1'b0,a2}+{1'b0,cin};
+        temp = {1'b0,A1} + {1'b0,A2}+{1'b0,Cin};
     end
-    assign s = temp[0];
-    assign cout = temp[1];
+    assign S = temp[0];
+    assign Cout = temp[1];
     
 endmodule

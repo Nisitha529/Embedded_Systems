@@ -1,17 +1,19 @@
-`timescale 10ns/10ps;
+`timescale 1ns/1ps
 `include "full_adder.v"
 module full_adder_tb;
 
 reg A1,A2,Cin;
 wire S,Cout;
 
-full_adder(
-    .a1(A1),
-    .a2(A2);
-    .cin(Cin);
-    .s(S);
-    .cout(Cout);
-    );
+// full_adder(
+//     .a1(A1),
+//     .a2(A2);
+//     .cin(Cin);
+//     .s(S);
+//     .cout(Cout);
+//     );
+
+full_adder uut (A1,A2,Cin,S,Cout)
 
 initial begin
     $dumpfile("full_adder_tb.vcd");
