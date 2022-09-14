@@ -1,0 +1,7 @@
+Wed Sep 14 13:59:27 IST 2022
+Trace back: can't read "base_windows": no such variable
+    while executing
+".vcop Eval {Geometry::TileWindows Horizontally}"
+    (menu invoke)
+  <2:C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {can't read "base_windows": no such variable}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "base_windows": no such variable}

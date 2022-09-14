@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vhello
+Z0 !s110 1663144885
+!i10b 1
+!s100 ^Rk2giM[ALM2;=QnAZAOA0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I0;9j<:[MzLCH5C9D0WcDc3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/VIVADO/Embedded_Systems/Altera_Projects/Hello_world
+w1662590275
+8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v
+FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v
+!i122 2
+L0 1 5
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1663144885.000000
+!s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vwaveform
+R0
+!i10b 1
+!s100 ?Y4B7AVI`:k54^OmKC?;Y1
+R1
+In6`Z0`dIl=dJJn<86Z=]C0
+R2
+R3
+w1663144681
+8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v
+FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v
+!i122 3
+L0 3 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v|
+!i113 1
+R6
+R7
