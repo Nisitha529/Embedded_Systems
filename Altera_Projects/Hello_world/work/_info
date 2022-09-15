@@ -9,31 +9,123 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA_lite/20.1
-vhello
-Z0 !s110 1663144885
+vfull_adder_structural
+Z0 !s110 1663152832
 !i10b 1
-!s100 ^Rk2giM[ALM2;=QnAZAOA0
+!s100 E:l1`COffe`0Q4@`KE4:@2
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
-I0;9j<:[MzLCH5C9D0WcDc3
+I1<4mhDmHVZF?GT2WNED<T2
 Z2 VDg1SIo80bB@j0V0VzS_@n1
 Z3 dE:/VIVADO/Embedded_Systems/Altera_Projects/Hello_world
-w1662590275
-8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v
-FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v
-!i122 2
-L0 1 5
-Z4 OV;L;2020.1;71
+w1663152713
+8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural.v
+FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural.v
+!i122 12
+Z4 L0 1 29
+Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1663144885.000000
+Z6 !s108 1663152832.000000
+!s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vfull_adder_structural_tb
+R0
+!i10b 1
+!s100 0iDDoX7Z59KX>iHL@QM0B3
+R1
+IjcWf:>Z80V4i[jIaGEeXg1
+R2
+R3
+w1659245375
+8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural_tb.v
+FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural_tb.v
+!i122 13
+L0 1 32
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/full_adder_structural_tb.v|
+!i113 1
+R7
+R8
+vhalf_adder_structural
+Z9 !s110 1663152831
+!i10b 1
+!s100 <2lGoQPeD>5W<aTdC5QGC1
+R1
+IfMQVn;[c0;5^@ZcCDoUP70
+R2
+R3
+w1659237601
+8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural.v
+FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural.v
+!i122 10
+L0 1 10
+R5
+r1
+!s85 0
+31
+Z10 !s108 1663152831.000000
+!s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural.v|
+!i113 1
+R7
+R8
+vhalf_adder_structural_tb
+R9
+!i10b 1
+!s100 7l@nzN;i`Cl7id6R4BF6Q0
+R1
+Im11>O6]B8Ek8Q`8=MCKPc0
+R2
+R3
+w1659237593
+8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural_tb.v
+FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural_tb.v
+!i122 11
+R4
+R5
+r1
+!s85 0
+31
+R10
+!s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/half_adder_structural_tb.v|
+!i113 1
+R7
+R8
+vhello
+R9
+!i10b 1
+!s100 ^Rk2giM[ALM2;=QnAZAOA0
+R1
+I0;9j<:[MzLCH5C9D0WcDc3
+R2
+R3
+w1662590275
+8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v
+FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v
+!i122 8
+L0 1 5
+R5
+r1
+!s85 0
+31
+R10
 !s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v|
 !s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/hello.v|
 !i113 1
-Z6 o-work work
-Z7 tCvgOpt 0
+R7
+R8
 vwaveform
-R0
+R9
 !i10b 1
 !s100 ?Y4B7AVI`:k54^OmKC?;Y1
 R1
@@ -43,15 +135,15 @@ R3
 w1663144681
 8E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v
 FE:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v
-!i122 3
+!i122 9
 L0 3 24
-R4
+R5
 r1
 !s85 0
 31
-R5
+R10
 !s107 E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v|
 !s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Vivado/Udemy_course/wavform.v|
 !i113 1
-R6
 R7
+R8

@@ -15,3 +15,33 @@ vsim -gui work.waveform
 add wave -position end  sim:/waveform/sig1
 add wave -position end  sim:/waveform/sig2
 run -all
+# Compile of hello.v was successful.
+# Compile of wavform.v was successful.
+# Compile of half_adder_structural.v was successful.
+# Compile of half_adder_structural_tb.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of hello.v was successful.
+# Compile of wavform.v was successful.
+# Compile of half_adder_structural.v was successful.
+# Compile of half_adder_structural_tb.v was successful.
+# Compile of full_adder_structural.v was successful.
+# Compile of full_adder_structural_tb.v was successful.
+# 6 compiles, 0 failed with no errors.
+run -all
+vsim -gui work.full_adder_structural
+# End time: 16:24:40 on Sep 14,2022, Elapsed time: 2:12:37
+# Errors: 0, Warnings: 8
+# vsim -gui work.full_adder_structural 
+# Start time: 16:24:40 on Sep 14,2022
+# Loading work.full_adder_structural
+# Loading work.half_adder_structural
+vsim -gui work.full_adder_structural_tb
+# End time: 16:25:00 on Sep 14,2022, Elapsed time: 0:00:20
+# Errors: 0, Warnings: 1
+# vsim -gui work.full_adder_structural_tb 
+# Start time: 16:25:00 on Sep 14,2022
+# Loading work.full_adder_structural_tb
+# Loading work.full_adder_structural
+# Loading work.half_adder_structural
+# End time: 13:21:11 on Sep 15,2022, Elapsed time: 20:56:11
+# Errors: 0, Warnings: 1

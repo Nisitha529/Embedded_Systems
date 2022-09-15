@@ -13,15 +13,15 @@ wire carry2 ;
 half_adder_structural HA1(
     .a(a),
     .b(b),
-    .sum(sum),
+    .sum(sum1),
     .carry(carry1)
 );
 
 half_adder_structural HA2(
-    .a(a),
-    .b(b),
+    .a(sum1),
+    .b(carry_in),
     .sum(sum),
-    .carry(carry1)
+    .carry(carry2)
 );
 
 or (carry_out,carry1,carry2) ; 
