@@ -1,0 +1,5 @@
+|blink_led
+key_i => led_o.DATAIN
+led_o << key_i.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/17.0
+vblink_led
+Z0 !s110 1666186637
+!i10b 1
+!s100 iCh=6aCD3^AdK=]mS[4e<3
+Ibf1jlecA8EeZT9m1S5cFL3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects
+w1666185029
+8E:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led.v
+FE:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1666186636.000000
+!s107 E:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vblink_led_tb
+R0
+!i10b 1
+!s100 M9dR4MGB>O<SXTLRkTfL30
+IZUXkMcC[]@Fo?UVOeIk3F1
+R1
+R2
+w1666185838
+8E:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led_tb.v
+FE:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led_tb.v
+L0 29
+R3
+r1
+!s85 0
+31
+!s108 1666186637.000000
+!s107 E:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/VIVADO/Embedded_Systems/Altera_Projects/blink_led/modelsim_projects/blink_led_tb.v|
+!i113 1
+R4
+R5

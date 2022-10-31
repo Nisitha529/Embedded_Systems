@@ -13,3 +13,73 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-09 11:04:09.786
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-09-17 20:14:09.044 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-17 20:22:35.347
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-17 20:22:35.677
+!MESSAGE Log4j initialized with config file E:\VIVADO\Embedded_Systems\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-17 20:23:06.534
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-09-23 11:34:29.986 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  E:\VIVADO\Embedded_Systems\STM32\CUBEMX\Project_1\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 E:\VIVADO\Embedded_Systems\STM32\CUBEMX\Project_1\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-23 11:35:15.344
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-23 11:35:15.650
+!MESSAGE Log4j initialized with config file E:\VIVADO\Embedded_Systems\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-23 11:35:49.383
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-23 11:36:01.563
+!MESSAGE Indexed 'Project_1' (21 sources, 54 headers) in 8.19 sec: 6,146 declarations; 21,722 references; 28 unresolved inclusions; 705 syntax errors; 5,783 unresolved names (17%)
+!SESSION 2022-09-24 04:00:07.178 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-24 04:01:01.494
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-24 04:01:01.816
+!MESSAGE Log4j initialized with config file E:\VIVADO\Embedded_Systems\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-24 04:01:36.606
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-24 06:37:35.141
+!MESSAGE Indexed 'Blink_project' (17 sources, 78 headers) in 2.87 sec: 3,638 declarations; 13,118 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2022-09-24 14:43:15.945 -----------------------------------------------
+eclipse.buildId=Version 1.10.1
+java.version=11.0.14.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-09-24 14:46:47.403
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-09-24 14:46:48.477
+!MESSAGE Log4j initialized with config file E:\VIVADO\Embedded_Systems\STM32\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-09-24 14:47:45.611
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-09-24 15:01:08.754
+!MESSAGE Indexed 'Blink_project' (17 sources, 104 headers) in 6.68 sec: 6,983 declarations; 24,625 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.59%)
